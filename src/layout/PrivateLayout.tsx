@@ -39,7 +39,7 @@ const SIDE_BAR_ITEMS: Array<LinkToPage> = [
   },
 ];
 
-if (process.env.NEXT_PUBLIC_DEBUG) {
+if (process.env.NEXT_PUBLIC_DEBUG === 'true') {
   SIDE_BAR_ITEMS.push({
     title: '[Debug Tools]',
     path: '/dev',
