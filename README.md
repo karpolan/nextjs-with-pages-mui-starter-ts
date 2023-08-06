@@ -3,7 +3,7 @@
 Mix of [Create Next App](https://nextjs.org/docs/api-reference/create-next-app) and [MUI](https://mui.com) with set of reusable components and utilities to build professional NextJS application faster.
 
 - [Source Code](https://github.com/karpolan/nextjs-with-pages-mui-starter-ts)
-- [Online Demo](https://nextjs-typescript-mui-starter.vercel.app)
+- [Online Demo](https://nextjs-with-pages-mui-starter-ts.vercel.app)
 
 ## How to use
 
