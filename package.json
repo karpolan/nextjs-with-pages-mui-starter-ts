@@ -1,7 +1,7 @@
 {
-  "name": "nextjs-typescript-mui-starter",
-  "version": "0.3.17",
-  "description": "Next.js + MUI starter using TypeScript",
+  "name": "nextjs-with-pages-mui-starter-ts",
+  "version": "0.5.25",
+  "description": "Starter project for Next.js with Pages Router + MUI starter using TypeScript",
   "author": {
     "name": "Anton Karpenko",
     "email": "i@karpolan.com",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/karpolan/nextjs-typescript-mui-starterr.git"
+    "url": "https://github.com/karpolan/nextjs-with-pages-mui-starter-ts.git"
   },
   "scripts": {
     "dev": "next dev",
