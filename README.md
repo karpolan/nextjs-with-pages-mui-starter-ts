@@ -5,6 +5,8 @@ Mix of [Create Next App](https://nextjs.org/docs/api-reference/create-next-app) 
 - [Source Code](https://github.com/karpolan/nextjs-with-pages-mui-starter-ts)
 - [Online Demo](https://nextjs-with-pages-mui-starter-ts.vercel.app)
 
+_Warning: It looks like **App Router** is a winner over **Pages Router** so this template **could be deprecated** in the future... If you need a starter for **App Router**, check [this repo](https://github.com/karpolan/nextjs-mui-starter-ts)_
+
 ## How to use
 
 1. Clone or download the repo from: https://github.com/karpolan/nextjs-with-pages-mui-starter-ts
